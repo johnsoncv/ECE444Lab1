@@ -1,2 +1,2 @@
 #  Cansin Varol
-<img width="619" alt="Screen Shot 2021-09-16 at 22 33 52" src="https://user-images.githubusercontent.com/48742114/133715004-409c7089-742c-4dce-9d7b-ae4e2c56c2d3.png">
+<img width="728" alt="Screen Shot 2021-09-19 at 20 57 47" src="https://user-images.githubusercontent.com/48742114/133948856-d205cc33-085d-4959-95f7-aa33e9e7f8f3.png">
